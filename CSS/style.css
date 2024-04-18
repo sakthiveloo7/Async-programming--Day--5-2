@@ -1,0 +1,63 @@
+body 
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    padding: 20px;
+   
+
+}
+
+#header-text
+{
+    font-size: 2.2rem;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+#para-text
+{
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+#data-select
+{
+    margin-bottom: 20px;
+    cursor: pointer;
+    border: 2px solid rgb(84, 247, 8);
+    font-size: 1.2rem;
+}
+
+.container 
+{
+    max-width: 700px;
+    margin: 0 auto;
+    background-color: goldenrod
+}
+
+.card 
+{
+    background-color: rgb(248, 248, 248);
+    border-radius: 5px;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+
+.card-content 
+{
+    padding: 20px;
+}
+
+.card-content div
+{
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+.spacecraft-content,
+.satellite-content,
+.centres-content
+{
+    font-size: 1.2rem;
+    font-weight: 500; 
+}
